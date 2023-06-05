@@ -14,7 +14,7 @@
 ### Запуск проекта в dev-режиме
 - Клонируйте репозиторий и перейдите в него в командной строке.
 ```bash
-git clone https://github.com/WispHes/api_final_yatube.git
+git@github.com:Nataliya-miyau/api_yamdb.git
 ```
 - Установите виртуальное окружение c версии Python 3.7 :
 ```bash
